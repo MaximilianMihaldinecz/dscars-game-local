@@ -20,7 +20,7 @@ Features:
   - Different speed limits for reversing, forwarding and off-the-road driving. 
   - Acceleration and slowdown do not require repeated pressing of the forward/back buttons (one continuous press/release is sufficient)
   
-  ![Main menu screenshott](/screen1.png)
-  ![Pre-game menu screenshott](/screen2.png)
-  ![Gameplay screenshott](/screen3.png)
-
+  ![Main menu screenshot](/screen1.png)
+  ![Pre-game menu screenshot](/screen2.png)
+  ![Gameplay screenshot](/screen3.png)
+  ![Class diagram](/classdiagram.png)
